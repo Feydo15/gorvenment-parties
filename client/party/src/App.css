@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.App {
+    text-align: center;
+    width: 100%;
+  }
+  .span{
+    position: relative;
+    display: block; 
+  }
+  .productContainer {
+    display: flex;
+    width: 78%;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
